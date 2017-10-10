@@ -1,0 +1,6 @@
+1. Ikonki ze skillami czasem pojawiaj¹ siê w dziwnych pozycjach.
+2. Nie da siê wybraæ skilla z trzech poprzez przeci¹ganie jeœli nie spe³nia siê jego wymagañ przygotowania. 
+3. Niektóre texty w tipsach wychodz¹ poza ramkê.
+4. Rzucanie owcami nie dzia³a (?)
+5. Czapka drugiej formy bossa W³adca Owiec buguje siê (druga forma pojawia siê ze drugim razem, gdy go siê spotka w jednej rozgrywce. W³adca owiec to ten starzec na bujanym krzeœle).
+6. Czasem pokój do którego siê wchodzi siê nie podœwietla, gdy to siê dzieje da siê jedynie wróciæ do pokoju, z którego siê przysz³o. Nie wiem kiedy dok³adnie siê to dzieje (przyda³y b ysiê jakieœ poszlaki) XD. 
