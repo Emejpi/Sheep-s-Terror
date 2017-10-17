@@ -1,2 +1,5 @@
 1. Ikonki ze skillami czasem pojawiaj¹ siê w dziwnych pozycjach.
 2. Niektóre texty w tipsach wychodz¹ poza ramkê.
+3. Problem z generatorem labiryntów. Czasem blokuje przejœcie.
+4. Widoczne krzaczki w ciemnosci, które nie powinny byæ podœwietlone.
+5. Na ekranie wybierania skilli znaczniki na kartach czasem siê chowaj¹.
